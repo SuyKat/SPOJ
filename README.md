@@ -1,2 +1,2 @@
 # SPOJ
-Problems solved by me on SPOJ
+Problems solved on SPOJ
